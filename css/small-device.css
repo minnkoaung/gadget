@@ -1,0 +1,9 @@
+@media (min-width: 576px) {
+    .nav-item_margin {
+        padding-left: 0px !important;
+    }
+    .social-btn-sec-row {
+        margin-right: 0px;
+    }
+    
+}
